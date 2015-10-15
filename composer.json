@@ -1,0 +1,10 @@
+{
+  "name": "etdsolutions/jquery.splitter",
+  "description": "Simple splitter for jQuery",
+  "homepage": "https://github.com/shunjikonishi/jquery-splitter",
+  "author": "Shunji Konishi",
+  "license": "MIT",
+  "require": {
+    "etdsolutions/jquery": ">=1.1"
+  }
+}
